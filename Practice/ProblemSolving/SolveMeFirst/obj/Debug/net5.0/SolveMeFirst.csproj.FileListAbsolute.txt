@@ -1,0 +1,16 @@
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\bin\Debug\net5.0\SolveMeFirst.exe
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\bin\Debug\net5.0\SolveMeFirst.deps.json
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\bin\Debug\net5.0\SolveMeFirst.runtimeconfig.json
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\bin\Debug\net5.0\SolveMeFirst.runtimeconfig.dev.json
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\bin\Debug\net5.0\SolveMeFirst.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\bin\Debug\net5.0\ref\SolveMeFirst.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\bin\Debug\net5.0\SolveMeFirst.pdb
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\obj\Debug\net5.0\SolveMeFirst.csproj.AssemblyReference.cache
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\obj\Debug\net5.0\SolveMeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\obj\Debug\net5.0\SolveMeFirst.AssemblyInfoInputs.cache
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\obj\Debug\net5.0\SolveMeFirst.AssemblyInfo.cs
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\obj\Debug\net5.0\SolveMeFirst.csproj.CoreCompileInputs.cache
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\obj\Debug\net5.0\SolveMeFirst.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\obj\Debug\net5.0\ref\SolveMeFirst.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\obj\Debug\net5.0\SolveMeFirst.pdb
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\SolveMeFirst\obj\Debug\net5.0\SolveMeFirst.genruntimeconfig.cache
