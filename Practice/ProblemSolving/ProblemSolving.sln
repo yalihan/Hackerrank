@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolveMeFirst", "SolveMeFirst\SolveMeFirst.csproj", "{746771A9-A528-4887-A6BF-7FE21DEC9ADD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleArraySum", "SimpleArraySum\SimpleArraySum.csproj", "{029C1714-FB08-4F03-A204-50084F8B03A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleArraySum", "SimpleArraySum\SimpleArraySum.csproj", "{029C1714-FB08-4F03-A204-50084F8B03A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum.csproj", "{1E24E792-55A9-4161-8DAD-496B0D53011C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{029C1714-FB08-4F03-A204-50084F8B03A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{029C1714-FB08-4F03-A204-50084F8B03A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{029C1714-FB08-4F03-A204-50084F8B03A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E24E792-55A9-4161-8DAD-496B0D53011C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E24E792-55A9-4161-8DAD-496B0D53011C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E24E792-55A9-4161-8DAD-496B0D53011C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E24E792-55A9-4161-8DAD-496B0D53011C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

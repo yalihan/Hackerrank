@@ -1,0 +1,16 @@
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\bin\Debug\net5.0\AVeryBigSum.exe
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\bin\Debug\net5.0\AVeryBigSum.deps.json
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\bin\Debug\net5.0\AVeryBigSum.runtimeconfig.json
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\bin\Debug\net5.0\AVeryBigSum.runtimeconfig.dev.json
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\bin\Debug\net5.0\AVeryBigSum.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\bin\Debug\net5.0\ref\AVeryBigSum.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\bin\Debug\net5.0\AVeryBigSum.pdb
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\obj\Debug\net5.0\AVeryBigSum.csproj.AssemblyReference.cache
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\obj\Debug\net5.0\AVeryBigSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\obj\Debug\net5.0\AVeryBigSum.AssemblyInfoInputs.cache
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\obj\Debug\net5.0\AVeryBigSum.AssemblyInfo.cs
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\obj\Debug\net5.0\AVeryBigSum.csproj.CoreCompileInputs.cache
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\obj\Debug\net5.0\AVeryBigSum.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\obj\Debug\net5.0\ref\AVeryBigSum.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\obj\Debug\net5.0\AVeryBigSum.pdb
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\ProblemSolving\AVeryBigSum\obj\Debug\net5.0\AVeryBigSum.genruntimeconfig.cache
