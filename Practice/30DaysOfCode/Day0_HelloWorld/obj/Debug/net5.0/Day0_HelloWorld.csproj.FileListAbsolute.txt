@@ -1,0 +1,16 @@
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\bin\Debug\net5.0\Day0_HelloWorld.exe
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\bin\Debug\net5.0\Day0_HelloWorld.deps.json
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\bin\Debug\net5.0\Day0_HelloWorld.runtimeconfig.json
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\bin\Debug\net5.0\Day0_HelloWorld.runtimeconfig.dev.json
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\bin\Debug\net5.0\Day0_HelloWorld.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\bin\Debug\net5.0\ref\Day0_HelloWorld.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\bin\Debug\net5.0\Day0_HelloWorld.pdb
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\obj\Debug\net5.0\Day0_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\obj\Debug\net5.0\Day0_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\obj\Debug\net5.0\Day0_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\obj\Debug\net5.0\Day0_HelloWorld.AssemblyInfo.cs
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\obj\Debug\net5.0\Day0_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\obj\Debug\net5.0\Day0_HelloWorld.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\obj\Debug\net5.0\ref\Day0_HelloWorld.dll
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\obj\Debug\net5.0\Day0_HelloWorld.pdb
+C:\Users\coder\Documents\Alihan\Software\Hackerrank\Practice\30DaysOfCode\Day0_HelloWorld\obj\Debug\net5.0\Day0_HelloWorld.genruntimeconfig.cache
