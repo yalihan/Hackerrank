@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "TimeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{5F5F72D8-371D-49D4-BAE3-45A6C563961A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{439477E9-C829-446F-AD6C-184EB85B14DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5F5F72D8-371D-49D4-BAE3-45A6C563961A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F5F72D8-371D-49D4-BAE3-45A6C563961A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F5F72D8-371D-49D4-BAE3-45A6C563961A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439477E9-C829-446F-AD6C-184EB85B14DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439477E9-C829-446F-AD6C-184EB85B14DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439477E9-C829-446F-AD6C-184EB85B14DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439477E9-C829-446F-AD6C-184EB85B14DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
