@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\Plus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{3A0F1B8C-38B8-4CB3-A6DC-63A8F1C4B12B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectnessAndTheLoopInvariant", "CorrectnessAndTheLoopInvariant\CorrectnessAndTheLoopInvariant.csproj", "{FFC15055-1438-48C3-8D57-8F9BB9E4A87D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3A0F1B8C-38B8-4CB3-A6DC-63A8F1C4B12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A0F1B8C-38B8-4CB3-A6DC-63A8F1C4B12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A0F1B8C-38B8-4CB3-A6DC-63A8F1C4B12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC15055-1438-48C3-8D57-8F9BB9E4A87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC15055-1438-48C3-8D57-8F9BB9E4A87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC15055-1438-48C3-8D57-8F9BB9E4A87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC15055-1438-48C3-8D57-8F9BB9E4A87D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
