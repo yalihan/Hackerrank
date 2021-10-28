@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Stai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrectnessAndTheLoopInvariant", "CorrectnessAndTheLoopInvariant\CorrectnessAndTheLoopInvariant.csproj", "{FFC15055-1438-48C3-8D57-8F9BB9E4A87D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangrams", "Pangrams\Pangrams.csproj", "{7E527CB7-712C-427F-BBC7-CE9D8DA470B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{FFC15055-1438-48C3-8D57-8F9BB9E4A87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFC15055-1438-48C3-8D57-8F9BB9E4A87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFC15055-1438-48C3-8D57-8F9BB9E4A87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E527CB7-712C-427F-BBC7-CE9D8DA470B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E527CB7-712C-427F-BBC7-CE9D8DA470B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E527CB7-712C-427F-BBC7-CE9D8DA470B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E527CB7-712C-427F-BBC7-CE9D8DA470B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
