@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangrams", "Pangrams\Pangra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatsAndAMouse", "CatsAndAMouse\CatsAndAMouse.csproj", "{CBBE0922-B05B-4A1E-84BF-69E41DE2746A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunnyString", "FunnyString\FunnyString.csproj", "{D807557C-49CC-45CD-A299-08FA6EF7EE39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunnyString", "FunnyString\FunnyString.csproj", "{D807557C-49CC-45CD-A299-08FA6EF7EE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongPassword", "StrongPassword\StrongPassword.csproj", "{05150CD6-AFE6-4197-87FC-044248CEAE86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{D807557C-49CC-45CD-A299-08FA6EF7EE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D807557C-49CC-45CD-A299-08FA6EF7EE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D807557C-49CC-45CD-A299-08FA6EF7EE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05150CD6-AFE6-4197-87FC-044248CEAE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05150CD6-AFE6-4197-87FC-044248CEAE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05150CD6-AFE6-4197-87FC-044248CEAE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05150CD6-AFE6-4197-87FC-044248CEAE86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
